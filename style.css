@@ -10,7 +10,7 @@
 }
 @font-face {
     font-family: "Silk Serif";
-    src: url(/fonts/silkserif-regularitalic-webfont.woff2);
+    src: url(./fonts/silkserif-regularitalic-webfont.woff2);
 }
 
 * {
