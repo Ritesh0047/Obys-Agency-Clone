@@ -2868,7 +2868,7 @@ h3 {
 }
 
 .second h3 {
-    width: 25vw;
+    width: 44vw;
     font-family: "plain light";
     font-size: 5vh;
     color: white;
@@ -2935,7 +2935,7 @@ h3 {
 }
 
 .first h3 {
-    width: 25vw;
+    width: 44vw;
     font-family: "plain light";
     font-size: 5vh;
     color: white;
@@ -3057,7 +3057,7 @@ h3 {
 }
 
 .third h3 {
-    width: 25vw;
+    width: 44vw;
     font-family: "plain light";
     font-size: 5vh;
     color: white;
@@ -3102,13 +3102,7 @@ h3 {
     font-weight: 300;
 }
 
-/* .three .underline32 {
-    width: 32vw;
-    height: 0.1vh;
-    background-color: white;
-    border-radius: 20px;
-    margin-top: 2vh;
-} */
+
 
 .forth {
     -ms-flex-negative: 0;
@@ -3163,17 +3157,6 @@ h3 {
     color: white;
     font-weight: 300;
 }
-
-/* .four .underline33 {
-    width: 100%;
-    height: 0.1vh;
-    background-color: white;
-    border-radius: 20px;
-    margin-top: 2vh;
-} */
-
-
-
 .fifth {
     height: 87vh;
     width: 44vw;
@@ -3184,7 +3167,7 @@ h3 {
 }
 
 .fifth h3 {
-    width: 35vw;
+    width: 44vw;
     font-family: "plain light";
     font-size: 5vh;
     color: white;
@@ -3268,7 +3251,7 @@ display: none;
 }
 
 .sixth h3 {
-    width: 25vw;
+    width: 44vw;
     font-family: "plain light";
     font-size: 5vh;
     color: white;
@@ -3312,14 +3295,6 @@ display: none;
     font-weight: 300;
 }
 
-/* .six .underline35 {
-    width: 100%;
-    height: 0.1vh;
-    background-color: white;
-    border-radius: 20px;
-    margin-top: 2vh;
-} */
-
 .circle-orange {
     position: relative;
     display: -webkit-box;
@@ -3340,7 +3315,12 @@ display: none;
     -o-transition: all ease .3s;
     transition: all ease .3s;
 }
-
+.circle-orange p {
+    font-family: "plain light";
+    font-size: 2vw;
+    font-weight: 500;
+    color: white;
+}
 
 
 } 
